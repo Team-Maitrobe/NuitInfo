@@ -1,0 +1,78 @@
+{
+  "home": {
+    "slogan": "Truth against misinformation: Maitrobé acts.",
+    "misinformation": {
+      "title": "Where does misinformation come from?",
+      "description": "It primarily comes from companies profiting from fossil fuels. Among them, CAAD has identified Shell, BP, and Total Energies."
+    },
+    "climate-sceptics": {
+      "title": "Who are the climate skeptics?",
+      "description": "There are also climate skeptics, a category of people who are not in large numbers but compensate for this numerical inferiority with an extremely large flow of posts on social media. These accounts are usually identified as reposting content related to anti-vaccination, pro-Russian, but also extreme right-wing views."
+    },
+    "social_media": {
+      "title": "Where do we find these climate skeptics?",
+      "description": "Social media identified as most prone to these climate-skeptic groups are mainly X (formerly Twitter), YouTube, or Facebook. The cause would be their lack of a policy to combat misinformation."
+    },
+    "ad": {
+      "title": "Advertisement",
+      "serrata": {
+        "title": "Play Serrata!",
+        "alt": "Globe with world flags",
+        "description": "A game of general knowledge and keyboard speed."
+      }
+    }
+  },
+  "debunk": {
+    "name": "Debunk",
+    "title": "Helps unravel the true from the false.",
+    "facts": [
+      {
+        "title": "The 5 Best Ways to Combat Climate Change Myths",
+        "description": [
+          "Ignore conspiracy theories on the Internet. Do not give them more life by expressing and spreading them further.",
+          "Do not repeat the lie. If you respond to a false claim, do not repeat the lie itself; you could amplify it.",
+          "Create a 'truth sandwich.' Combat myths with the truth, then correct the lie without repeating it, and finish with more truth.",
+          "Do not use partisan language or sources. They can lead people to become completely disinterested, which goes against the goal of convincing."
+        ]
+      },
+      {
+        "title": "How to Identify a Suspicious Post?",
+        "description": [
+          "If something catches your attention and seems a bit unusual, especially articles or posts that evoke strong emotions like anger or fear, follow this list of questions before sharing it online:",
+          "Do you recognize the source? Does it reference a source you can easily find?",
+          "Do the information in the post seem credible?",
+          "Is it written in the style you would expect from a professional press organization?"
+        ]
+      },
+      {
+        "title": "How to Verify Articles and Social Media Posts If you answered no to any of the above questions, you can use one of these sites to fact-check:",
+        "description": [
+          "Climate Feedback: A global network of scientists distinguishing facts from fiction in media coverage of climate change.",
+          "PolitiFact: Part of the Poynter Institute, a nonprofit organization focused on politics. It focuses on fact-checking related to politics.",
+          "Fact Checker: Managed by the award-winning fact-checking team at The Washington Post.",
+          "Snopes.com: One of the oldest and largest online fact-checking sites.",
+          "Lead Stories: Co-founded by a registered independent and a registered Republican, it might be more reliable for conservatives.",
+          "Using these sites can help you get verified information and avoid spreading false information."
+        ]
+      }
+    ]
+  },
+  "challenges": {
+    "name": "Challenges",
+    "title": "Environmental Challenges",
+    "facts": [
+      {
+        "title": "Rising Sea Levels",
+        "description": "Due to the melting of glaciers and ice caps as well as the thermal expansion of water, sea levels are rising. This poses a threat to coastal regions and low-lying islands, endangering coastal ecosystems, human infrastructure, and populations. More frequent and severe coastal flooding can cause economic losses and massive population displacement."
+      },
+      {
+        "title": "Impact on Ecosystems and Biodiversity",
+        "description": "Climate changes affect natural habitats, seasonal cycles, and weather conditions. This can lead to species migrations, disruptions in food chains, and the disappearance of certain ecosystems. Species that cannot adapt quickly enough are particularly vulnerable, leading to significant biodiversity loss."
+      },
+      {
+        "title": "Intensification of Extreme Weather Events",
+        "description": "Climate warming is associated with an increase in the frequency and intensity of extreme weather events such as storms, cyclones, heatwaves, and floods. These more extreme weather phenomena can cause significant damage to infrastructure, agriculture, and communities. The most vulnerable populations, often those with fewer resources, are often the hardest hit."
+      }
+    ]
+  }
+}

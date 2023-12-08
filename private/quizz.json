@@ -1,0 +1,38 @@
+[
+    {
+      "question": "Qu'est-ce qui contribue principalement au réchauffement de la planète?",
+      "options": ["L'activité humaine", "Les éruptions volcaniques", "Les changements naturels du climat"],
+      "correctAnswer": "L'activité humaine"
+    },
+    {
+      "question": "Quel gaz joue un rôle clé dans le réchauffement climatique?",
+      "options": ["Oxygène", "Dioxyde de carbone", "Azote"],
+      "correctAnswer": "Dioxyde de carbone"
+    },
+    {
+      "question": "Pourquoi les océans sont-ils importants dans le contexte du réchauffement climatique?",
+      "options": ["Ils deviennent plus froids", "Ils absorbent la chaleur et influent sur le niveau de la mer", "Ils restent inchangés"],
+      "correctAnswer": "Ils absorbent la chaleur et influent sur le niveau de la mer"
+    },
+    {
+      "question": "Comment les arbres aident-ils à lutter contre le réchauffement climatique?",
+      "options": ["En augmentant les émissions de gaz à effet de serre", "En absorbant le dioxyde de carbone", "En n'ayant aucun impact"],
+      "correctAnswer": "En absorbant le dioxyde de carbone"
+    },
+    {
+      "question": "En quoi la production d'énergie peut-elle contribuer au réchauffement climatique?",
+      "options": ["En réduisant les émissions de gaz à effet de serre", "En utilisant des énergies propres", "En favorisant les énergies fossiles et en émettant des gaz nocifs"],
+      "correctAnswer": "En favorisant les énergies fossiles et en émettant des gaz nocifs"
+    },
+    {
+      "question": "Quel est l'effet du réchauffement climatique sur les glaciers et les icebergs?",
+      "options": ["Ils grandissent en taille", "Ils fondent, contribuant à l'élévation du niveau de la mer", "Ils restent inchangés"],
+      "correctAnswer": "Ils fondent, contribuant à l'élévation du niveau de la mer"
+    },
+    {
+      "question": "Comment les changements climatiques peuvent-ils influencer la vie des animaux?",
+      "options": ["En les rendant indifférents aux variations climatiques", "En perturbant leurs habitats naturels et leurs habitudes alimentaires", "En les transformant en animaux polaires"],
+      "correctAnswer": "En perturbant leurs habitats naturels et leurs habitudes alimentaires"
+    }
+  ]
+  

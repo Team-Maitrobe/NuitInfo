@@ -1,0 +1,60 @@
+{
+    "home":
+    {
+        "slogan":"Vérité contre désinformation : Maitrobé agit.",
+        "misinformation":{
+            "title":"D'où vient la désinformation ?",
+            "description":"Elle vient principalement d’entreprises tirant leurs bénéfices d’énergies fossiles. Parmi elles, la CAAD a identifié Shell, BP ou encore Total Energies."
+        },
+        "climate-sceptics":{
+            "title":"Qui sont les climatosceptiques ?",
+            "description":"Il existe aussi les climatosceptiques, une catégorie de personnes qui ne sont pas en très grand nombre, mais qui compensent cette infériorité numérique par un flot extrêmement grand de posts sur les réseaux sociaux. Ces comptes ont généralement été identifiés comme repostant aussi du contenu anti-vaccin, pro-russes mais aussi d'extrême droite."
+        },
+        "social_media":{
+            "title":"Où retrouve-t-on ces climatosceptiques ?",
+            "description":"Les réseaux sociaux identifiés comme le plus sujet à ces groupes climato-sceptiques sont principalement X (anciennement Twitter), youtube ou encore Facebook. La cause serait leur manque de politique de lutte contre la désinformation." 
+        },
+        "ad": {
+            "title":"Publicité",
+            "serrata":{
+                "title":"Jouez à serrata!",
+                "alt":"Globe avec drapeaux du monde",
+                "description":"Un jeu de culture générale et de rapidité au clavier."
+            }
+        }
+    },
+    "debunk":
+    {
+        "name":"Debunk",
+        "title":"Vous aidez à démêler le vrai du faux",
+    "facts": [{
+        "title":"Les 5 meilleures façons de lutter contre les mythes liés au changement climatique",
+        "description":["Ignorez les théories du complot sur Internet. Ne leur donnez pas plus de vie en les exprimant et en les propageant davantage.","Ne répétez pas le mensonge. Si vous répondez à une fausse affirmation, ne répétez pas le mensonge lui-même, vous pourriez l'amplifier.","Créez un \"sandwich de vérité\". Combattez les mythes avec la vérité, puis corrigez le mensonge sans le répéter, et terminez avec plus de vérité.","N'utilisez pas de langage ou de sources partisanes. Ils peuvent amener les gens à se désintéresser complètement, ce qui va à l'encontre de l'objectif de convaincre."]
+    },
+    {
+        "title":"Comment identifier une publication suspecte?",
+        "description":["Si quelque chose attire votre attention et semble un peu inhabituel, en particulier des articles ou des publications qui suscitent des émotions fortes comme la colère ou la peur, suivez cette liste de questions avant de le partager en ligne :","Reconnaissez-vous la source ? Fait-elle référence à une source que vous pouvez facilement trouver ?","Les informations dans la publication semblent-elles crédibles ?","Est-elle rédigée dans le style que vous attendiez d'une organisation de presse professionnelle ?"]
+    },
+    {
+        "title":"Comment vérifier les articles et les publications sur les réseaux sociaux Si vous avez répondu non à l'une des questions ci-dessus, vous pouvez utiliser l'un de ces sites pour vérifier les faits :",
+        "description":["Climate Feedback : Un réseau mondial de scientifiques qui distingue les faits de la fiction dans la couverture médiatique du changement climatique.","PolitiFact : fait partie du Poynter Institute, une organisation à but non lucratif axée sur la politique. Il se concentre sur la vérification des faits liés à la politique.","Fact Checker : Géré par l'équipe primée de vérification des faits du Washington Post","Snopes.com : L'un des plus anciens et des plus grands sites de vérification des faits en ligne.","Lead Stories : Co-fondé par un indépendant enregistré et un républicain enregistré, il pourrait être plus fiable pour les conservateurs.","L'utilisation de ces sites peut vous aider à obtenir des informations vérifiées et à éviter la propagation de fausses informations."]
+    }]
+},
+"challenges":{
+    "name":"Enjeux",
+    "title":"Les enjeux environnementeaux",
+"facts":[
+    {    
+        "title":"Élévation du niveau de la mer",
+        "description":"En raison de la fonte des glaciers et des calottes glaciaires ainsi que de l'expansion thermique de l'eau, le niveau de la mer augmente. Cela représente une menace pour les régions côtières et les îles basses, mettant en danger les écosystèmes côtiers, les infrastructures humaines et les populations. Les inondations côtières plus fréquentes et plus graves peuvent causer des pertes économiques et des déplacements massifs de populations."
+    },
+    {
+        "title":"Impact sur les écosystèmes et la biodiversité",
+        "description":"Les changements climatiques influent sur les habitats naturels, les cycles saisonniers et les conditions météorologiques. Cela peut entraîner des migrations d'espèces, des perturbations dans les chaînes alimentaires et la disparition de certains écosystèmes. Les espèces qui ne peuvent pas s'adapter suffisamment rapidement sont particulièrement vulnérables, ce qui peut entraîner une perte de biodiversité significative."
+    },
+    {
+        "title":"Intensification des événements météorologiques extrêmes",
+        "description":"Le réchauffement climatique est associé à une augmentation de la fréquence et de l'intensité des événements météorologiques extrêmes tels que les tempêtes, les cyclones, les canicules et les inondations. Ces phénomènes météorologiques plus extrêmes peuvent causer des dommages importants aux infrastructures, à l'agriculture et aux communautés. Les populations les plus vulnérables, souvent celles qui ont moins de ressources, sont souvent les plus durement touchées."
+    }
+]}
+}

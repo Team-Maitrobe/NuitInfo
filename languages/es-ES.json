@@ -1,0 +1,79 @@
+{
+    "home": {
+      "slogan": "Verdad contra desinformación: Maitrobé actúa.",
+      "misinformation": {
+        "title": "¿De dónde proviene la desinformación?",
+        "description": "Proviene principalmente de empresas que obtienen beneficios de los combustibles fósiles. Entre ellas, la CAAD ha identificado a Shell, BP y Total Energies."
+      },
+      "climate-sceptics": {
+        "title": "¿Quiénes son los escépticos del clima?",
+        "description": "También existen los escépticos del clima, una categoría de personas que no son numerosas, pero que compensan esta inferioridad numérica con un flujo extremadamente grande de publicaciones en las redes sociales. Estas cuentas suelen identificarse por repostear contenido relacionado con la anti-vacunación, pro-ruso, pero también opiniones de extrema derecha."
+      },
+      "social_media": {
+        "title": "¿Dónde encontramos a estos escépticos del clima?",
+        "description": "Las redes sociales identificadas como más propensas a estos grupos escépticos del clima son principalmente X (anteriormente Twitter), YouTube o Facebook. La causa sería su falta de una política para combatir la desinformación."
+      },
+      "ad": {
+        "title": "Publicidad",
+        "serrata": {
+          "title": "¡Juega a Serrata!",
+          "alt": "Globo con banderas del mundo",
+          "description": "Un juego de cultura general y velocidad de teclado."
+        }
+      }
+    },
+    "debunk": {
+      "name": "Desmentir",
+      "title": "Ayuda a desentrañar la verdad de la mentira.",
+      "facts": [
+        {
+          "title": "Las 5 mejores maneras de luchar contra los mitos relacionados con el cambio climático",
+          "description": [
+            "Ignora las teorías de conspiración en Internet. No les des más vida expresándolas y propagándolas aún más.",
+            "No repitas la mentira. Si respondes a una afirmación falsa, no repitas la mentira en sí misma; podrías amplificarla.",
+            "Crea un 'sándwich de verdad'. Combate los mitos con la verdad, luego corrige la mentira sin repetirla, y termina con más verdad.",
+            "No uses lenguaje ni fuentes partidistas. Pueden hacer que las personas pierdan completamente el interés, lo cual va en contra del objetivo de convencer."
+          ]
+        },
+        {
+          "title": "Cómo identificar una publicación sospechosa",
+          "description": [
+            "Si algo llama tu atención y parece un poco inusual, especialmente artículos o publicaciones que generan fuertes emociones como la ira o el miedo, sigue esta lista de preguntas antes de compartirlo en línea:",
+            "¿Reconoces la fuente? ¿Hace referencia a una fuente que puedas encontrar fácilmente?",
+            "¿Las informaciones en la publicación parecen creíbles?",
+            "¿Está escrita en el estilo que esperarías de una organización de prensa profesional?"
+          ]
+        },
+        {
+          "title": "Cómo verificar artículos y publicaciones en redes sociales. Si respondiste no a alguna de las preguntas anteriores, puedes usar uno de estos sitios para verificar los hechos:",
+          "description": [
+            "Climate Feedback: Una red global de científicos que distingue los hechos de la ficción en la cobertura mediática del cambio climático.",
+            "PolitiFact: Parte del Poynter Institute, una organización sin fines de lucro centrada en la política. Se centra en la verificación de hechos relacionados con la política.",
+            "Fact Checker: Gestionado por el galardonado equipo de verificación de hechos de The Washington Post.",
+            "Snopes.com: Uno de los sitios más antiguos y grandes de verificación de hechos en línea.",
+            "Lead Stories: Cofundado por un independiente registrado y un republicano registrado, podría ser más confiable para los conservadores.",
+            "El uso de estos sitios puede ayudarte a obtener información verificada y evitar la propagación de información falsa."
+          ]
+        }
+      ]
+    },
+    "challenges": {
+      "name": "Desafíos",
+      "title": "Desafíos ambientales",
+      "facts": [
+        {
+          "title": "Aumento del nivel del mar",
+          "description": "Debido al derretimiento de los glaciares y las capas de hielo, así como a la expansión térmica del agua, el nivel del mar está aumentando. Esto representa una amenaza para las regiones costeras e islas bajas, poniendo en peligro los ecosistemas costeros, la infraestructura humana y las poblaciones. Las inundaciones costeras más frecuentes y graves pueden causar pérdidas económicas y desplazamientos masivos de población."
+        },
+        {
+          "title": "Impacto en los ecosistemas y la biodiversidad",
+          "description": "Los cambios climáticos afectan a los hábitats naturales, los ciclos estacionales y las condiciones meteorológicas. Esto puede provocar migraciones de especies, alteraciones en las cadenas alimentarias y la desaparición de ciertos ecosistemas. Las especies que no pueden adaptarse lo suficientemente rápido son particularmente vulnerables, lo que puede llevar a una pérdida significativa de biodiversidad."
+        },
+        {
+          "title": "Intensificación de eventos meteorológicos extremos",
+          "description": "El calentamiento climático está asociado con un aumento en la frecuencia e intensidad de eventos meteorológicos extremos como tormentas, ciclones, olas de calor e inundaciones. Estos fenómenos meteorológicos más extremos pueden causar daños significativos a la infraestructura, la agricultura y las comunidades. Las poblaciones más vulnerables, a menudo aquellas con menos recursos, son las más afectadas."
+        }
+      ]
+    }
+  }
+  
