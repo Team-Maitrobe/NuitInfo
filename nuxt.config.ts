@@ -10,11 +10,6 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/main.css'],
-
-  server: {
-    port: 8000, // default: 3000
-    host: '0.0.0.0' // default: localhost
-  },
   app: {
     head: {
       charset: 'utf-8',
@@ -25,8 +20,30 @@ export default defineNuxtConfig({
   
   // daisyUI config (optional - here are the default values)
   daisyui: {
-    themes: false, // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
-    darkTheme: "dark", // name of one of the included themes for dark mode
+    themes: [
+      {
+        christmas: {
+        
+"primary": "#b91c1c",
+        
+"secondary": "#f87171",
+        
+"accent": "#9f1239",
+        
+"neutral": "#fecdd3",
+        
+"base-100": "#fda4af",
+        
+"info": "#34d399",
+        
+"success": "#bbf7d0",
+        
+"warning": "#fed7aa",
+        
+"error": "#b91c1c",
+        },
+      },"dark"], // false: only light + dark | true: all themes | array: specific themes like this ["light", "dark", "cupcake"]
+    darkTheme: "christmas", // name of one of the included themes for dark mode
     base: true, // applies background color and foreground color for root element by default
     styled: true, // include daisyUI colors and design decisions for all components
     utils: true, // adds responsive and modifier utility classes

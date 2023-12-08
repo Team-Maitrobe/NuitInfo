@@ -7,14 +7,12 @@
         </div>
 
         <!-- Center Section - Navbar (Sticky) -->
-        <nav class="flex space-x-4 items-center">
+        <nav class="flex space-x-5 items-center">
             <a href="debunk" class="text-white hover:text-emerald-300">Debunk</a>
             <a href="about" class="text-white hover:text-emerald-300">À propos</a>
-            <a href="#" class="text-white hover:text-emerald-300">Quizz</a>
-            <a href="#" class="text-white hover:text-emerald-300">Contact</a>
+            <a href="quizz" class="text-white hover:text-emerald-300">Quizz</a>
+            <a href="remerciement" class="text-white hover:text-emerald-300">Remerciement</a>
         </nav>
-
-        <button type="button" onclick="modenoel()">Change theme</button>
 
         <!-- Right Section - Logo -->
         <div>
